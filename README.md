@@ -1,4 +1,5 @@
-![alt tag](http://www.area31.net.br/wiki/images/thumb/7/7b/CaseFCX1-area31-versao1.jpg/640px-CaseFCX1-area31-versao1.jpg)
+![alt tag](http://www.area31.net.br/wiki/images/thumb/7/79/LOGO_CYBERSI.jpg/400px-LOGO_CYBERSI.jpg)
+
 
 # CYBER-SI
 Cybernetic Scene Investigation
@@ -10,7 +11,8 @@ Area31 Hackerspace a project that has the focus to develop a kit for use in expe
 # Hardware
 Raspberry Pi 2
 
-#Conceito
-Briefcase idea or the photo project here
+#The "Case"
+![alt tag](http://www.area31.net.br/wiki/images/thumb/7/7b/CaseFCX1-area31-versao1.jpg/640px-CaseFCX1-area31-versao1.jpg)
 
-#blah blah blah
+
+#OKokOkOk
