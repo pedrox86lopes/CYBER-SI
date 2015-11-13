@@ -18,3 +18,13 @@ for sniffado in sniffa.stdout:
 
 
 
+if __name__ == '__main__':
+    try:
+        main()
+    except KeyboardInterrupt:
+        print 'Sniffer parado!'
+        try:
+            sys.exit(0)
+        except SystemExit:
+            os._exit(0)
+
